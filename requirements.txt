@@ -1,0 +1,6 @@
+bardapi
+pyttsx3
+SpeechRecognition
+playsound
+PyAudio
+opencv-python
