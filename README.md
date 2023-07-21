@@ -1,4 +1,4 @@
-# <img src="https://github.com/RaannaKasturi/ANNA/blob/master/ANNA.jpg?raw=true" alt="ANNA_icon" style="border-radius: 25%" width="64px" height="64px"> ANNA - Artificial Neural Net Assistant [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/RaannaKasturi/ANNA/blob/main/LICENSE)
+# <img src="https://github.com/RaannaKasturi/ANNA/blob/main/ANNA.png?raw=true" alt="ANNA_icon" style="border-radius: 25%" width="64px" height="64px"> ANNA - Artificial Neural Net Assistant [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/RaannaKasturi/ANNA/blob/main/LICENSE)
 ChatGPT &amp; BardAI Voice Assistant based on Python
 <br>
 ANNA is an innovative tool that revolutionizes the way you interact with technologies like OpenAI's GPT, Google's Bard, etc.
